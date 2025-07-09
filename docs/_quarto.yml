@@ -1,0 +1,24 @@
+project:
+  type: website
+  render:
+    - "*.md"
+    - "*.Rmd"
+    - "*.qmd"
+    - "*.ipynb"
+  output-dir: .
+
+website:
+  title: "GitHub Tutorial"
+  navbar:
+    right:
+      - text: Source code
+        icon: github
+        href: https://github.com/chenh19/github
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    include-after-body: _footer.html

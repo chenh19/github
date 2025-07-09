@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "How to Use GitHub: A 5-Minute Tutorial",
+    "section": "",
+    "text": "1. Sign up to GitHub\n\nIf you haven’t, you may sign up to GitHub here.\n\n\n\n\n\nIf you never had any exposure to Markdown, it’s just text file with some symbols that can be read by other software. It’s very simple to learn. The basic syntax will cover the majority of the usage case.\n\n\n\n2. Create a new repository\n\nNow you need to create a new repository. There is nothing fancy with a “repository”, you may just consider it as a “folder”.\n\n\n\n\n\n\n\n\n\n\n\n\n3. Edit the README.md file\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4. Create a new file\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5. Upload files\n\n\n\n\n\n\n\n\n\n\n\n6. Add link to your website\nrefer to Quarto repo\n\n\n\n\n\n\n\n\n\n\n\n7. Create a release\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n8. Using command line\n\n\n\n\n\nNote:\n\n\n\n\n\n\n\n9. Repository settings\n\n\n\n\n\n\nAssume you have created a repository (refer to step 2)\nsetup git_ssh using\n\nCreate a folder (replace test with your desired folder name):\n\nmkdir -p ./test/ && cd ./test/\n\nInitialize the folder (replace git@github.com:chenh19/test.git with your SSH URL):\n\ngit init && git remote add origin git@github.com:chenh19/test.git\n\nPull your repository (replace git@github.com:chenh19/test.git with your SSH URL):\n\ngit pull git@github.com:chenh19/test.git\n\nCreate or edit your files locally.\nPush to your repository:\n\ngit add --all && git commit -a -m \"update\" && git push -u origin main"
+  }
+]
