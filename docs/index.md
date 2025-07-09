@@ -13,7 +13,7 @@ toc: true
 <summary>**Note:**</summary>
 <div style="font-size: 0.9em">
 
-- If you’ve never used Markdown before, it’s a plain text format with simple symbols that allow other software to interpret the structure—like headings, lists, or links. It’s very easy to learn, and the [basic syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax) covers most common use cases.
+– If you’ve never used **Markdown** before, it’s a plain text format with simple symbols that allow other software to interpret the structure—like headings, lists, or links. It’s easy to learn and especially useful when working with GitHub. Check out the [basic syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax), which covers the most common use cases.
 
 </div>
 </details>
@@ -37,14 +37,14 @@ toc: true
 <summary>**Note:**</summary>
 <div style="font-size: 0.9em">
 
-- There’s nothing fancy about a *repository*—you may simply think of it as a *folder*.
-- You may read about [open-source licenses](https://www.wikiwand.com/en/articles/Open-source_license) and choose one that suits your needs. GitHub also provides [a list of licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type) you can choose from when creating a repository.
+- There’s nothing fancy about a **repository**—you may simply think of it as a **folder**.
+- I usually go with [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#SEC1). You may read about [open-source licenses](https://www.wikiwand.com/en/articles/Open-source_license) and choose one that suits your needs. GitHub also provides [a list of licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type) you can choose from when creating a repository.
 
 </div>
 </details>
 
 
-### 3. Edit the README.md file
+### 3. Edit the README file
 
 - Click the pencil button to edit.
 
@@ -103,7 +103,7 @@ toc: true
 <summary>**Note:**</summary>
 <div style="font-size: 0.9em">
 
-- If you’re interested in how to create a website using GitHub, you can check out [this tutorial](https://chenh19.github.io/Quarto/misc.html).
+- If you’re interested in how to create a website using GitHub, you may check out [this tutorial](https://chenh19.github.io/Quarto/misc.html).
 
 </div>
 </details>
@@ -115,7 +115,7 @@ toc: true
 
 <div style="text-align:center;"><img src="./images/7-1.png" width="85%"></div>
 
-- Create a tag.
+- Create a new tag.
 
 <div style="text-align:center;"><img src="./images/7-2.png" width="85%"></div>
 
