@@ -13,7 +13,7 @@ toc: true
 <summary>**Note:**</summary>
 <div style="font-size: 0.9em">
 
-– If you’ve never used **Markdown** before, it’s a plain text format with simple symbols that allow other software to interpret the structure—like headings, lists, or links. It’s easy to learn and especially useful when working with GitHub. Check out the [basic syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax), which covers the most common use cases.
+– If you’ve never used **Markdown** before, it’s a plain text format with simple symbols that allow other software to interpret the structure—like headings, lists, or links. It’s very easy to learn and especially helpful when working with GitHub. Check out the [basic syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax), which covers the most common use cases.
 
 </div>
 </details>
